@@ -1,0 +1,25 @@
+MuJoCo/MuJoCo
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+env/
+.mujoco_env/
+*.egg-info/
+
+# MuJoCo
+*.log
+*.bin
+*.msh
+*.obj
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store

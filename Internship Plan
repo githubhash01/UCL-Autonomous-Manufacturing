@@ -1,0 +1,29 @@
+To Do: 
+
+Mickey Li Internship: 
+
+
+Stage 1: 
+
+- Create a simple crazy flie simulation in MuJoCo 
+- Create a simple crazy flie simulation in Genesis AI 
+
+[Optional] 
+- Create a simple crazy file simulation in _____ [unkown 3rd simulator] 
+
+Stage 2: 
+
+- Train simple control policy (hover, point to point) 
+
+	- In MuJoCo 
+	- In Genesis AI 
+	
+Stage 3: 
+
+- Research availabe simulator's for parallel robots
+
+Stage 4: 
+
+- Write a report for Mickey Li and Vijay 
+
+
